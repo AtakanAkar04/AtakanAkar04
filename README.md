@@ -1,4 +1,3 @@
--   I'm living in Ankara.
--   I’m currently getting education at Bilkent University.
--   I’m currently learning C++.
--   I'm a Computer Science student.
+
+I'm a Computer Science student. I’m currently getting education at Bilkent University.
+
